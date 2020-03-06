@@ -1,0 +1,6 @@
+/home/ilya/opencv_ffmpeg_streaming/build/CMakeFiles/rebuild_cache.dir
+/home/ilya/opencv_ffmpeg_streaming/build/CMakeFiles/simple_opencv_streaming.dir
+/home/ilya/opencv_ffmpeg_streaming/build/CMakeFiles/edit_cache.dir
+/home/ilya/opencv_ffmpeg_streaming/build/streamer/CMakeFiles/rebuild_cache.dir
+/home/ilya/opencv_ffmpeg_streaming/build/streamer/CMakeFiles/streamer.dir
+/home/ilya/opencv_ffmpeg_streaming/build/streamer/CMakeFiles/edit_cache.dir
